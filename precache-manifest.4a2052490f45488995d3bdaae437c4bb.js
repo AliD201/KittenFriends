@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d357cf18371635396c51388df9d418f5",
+    "revision": "7ca3c272e3a68fba972e6938c942b052",
     "url": "/KittenFriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KittenFriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "ebd7755e1099446dfe2d",
+    "revision": "1516bae97af865a19a44",
     "url": "/KittenFriends/static/css/main.f6f57ef6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KittenFriends/static/js/2.b07ce836.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebd7755e1099446dfe2d",
-    "url": "/KittenFriends/static/js/main.420b80bf.chunk.js"
+    "revision": "1516bae97af865a19a44",
+    "url": "/KittenFriends/static/js/main.ac8816b7.chunk.js"
   },
   {
     "revision": "299a3563dd214957e444",
