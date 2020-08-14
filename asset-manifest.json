@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/KittenFriends/static/css/main.dfc0a380.chunk.css",
-    "main.js": "/KittenFriends/static/js/main.039861b8.chunk.js",
-    "main.js.map": "/KittenFriends/static/js/main.039861b8.chunk.js.map",
+    "main.css": "/KittenFriends/static/css/main.d623e0c0.chunk.css",
+    "main.js": "/KittenFriends/static/js/main.b185d041.chunk.js",
+    "main.js.map": "/KittenFriends/static/js/main.b185d041.chunk.js.map",
     "runtime-main.js": "/KittenFriends/static/js/runtime-main.4d3c1551.js",
     "runtime-main.js.map": "/KittenFriends/static/js/runtime-main.4d3c1551.js.map",
     "static/css/2.3c03f26f.chunk.css": "/KittenFriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.5b1702ec.chunk.js": "/KittenFriends/static/js/2.5b1702ec.chunk.js",
     "static/js/2.5b1702ec.chunk.js.map": "/KittenFriends/static/js/2.5b1702ec.chunk.js.map",
     "index.html": "/KittenFriends/index.html",
-    "precache-manifest.37bee3e7ea57eeac1efc2ee33353f6f4.js": "/KittenFriends/precache-manifest.37bee3e7ea57eeac1efc2ee33353f6f4.js",
+    "precache-manifest.b55dbe228fdb9c45cb46b240aee9d110.js": "/KittenFriends/precache-manifest.b55dbe228fdb9c45cb46b240aee9d110.js",
     "service-worker.js": "/KittenFriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/KittenFriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.dfc0a380.chunk.css.map": "/KittenFriends/static/css/main.dfc0a380.chunk.css.map",
+    "static/css/main.d623e0c0.chunk.css.map": "/KittenFriends/static/css/main.d623e0c0.chunk.css.map",
     "static/js/2.5b1702ec.chunk.js.LICENSE.txt": "/KittenFriends/static/js/2.5b1702ec.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/KittenFriends/static/media/SEGA.12a3db8b.woff",
-    "static/media/index.css": "/KittenFriends/static/media/wallpaperflare.com_wallpaper (1).60db2bf8.jpg"
+    "static/media/App.css": "/KittenFriends/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4d3c1551.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.5b1702ec.chunk.js",
-    "static/css/main.dfc0a380.chunk.css",
-    "static/js/main.039861b8.chunk.js"
+    "static/css/main.d623e0c0.chunk.css",
+    "static/js/main.b185d041.chunk.js"
   ]
 }

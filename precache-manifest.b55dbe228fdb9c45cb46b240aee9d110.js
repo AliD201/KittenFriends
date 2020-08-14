@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73f02f6f162320bf54074e8c512bf8f7",
+    "revision": "27a4da3335ff6825d0d9848a7f0a035e",
     "url": "/KittenFriends/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KittenFriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "c050b114f8e15b4f5bce",
-    "url": "/KittenFriends/static/css/main.dfc0a380.chunk.css"
+    "revision": "db709cdd826daf6297c8",
+    "url": "/KittenFriends/static/css/main.d623e0c0.chunk.css"
   },
   {
     "revision": "94fb8158f61403f9416a",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/KittenFriends/static/js/2.5b1702ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c050b114f8e15b4f5bce",
-    "url": "/KittenFriends/static/js/main.039861b8.chunk.js"
+    "revision": "db709cdd826daf6297c8",
+    "url": "/KittenFriends/static/js/main.b185d041.chunk.js"
   },
   {
     "revision": "299a3563dd214957e444",
@@ -30,9 +30,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "12a3db8ba7f5423327bb12aed3c41977",
     "url": "/KittenFriends/static/media/SEGA.12a3db8b.woff"
-  },
-  {
-    "revision": "60db2bf8e2a6d40b1806c39f36012f34",
-    "url": "/KittenFriends/static/media/wallpaperflare.com_wallpaper (1).60db2bf8.jpg"
   }
 ]);
