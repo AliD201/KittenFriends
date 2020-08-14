@@ -33,7 +33,7 @@ const App = () =>{
   console.log(filtering);
   return (
     <div className="tc">
-    <h1 className="f1">ROBOFRIENDS</h1>
+    <h1 className="f1">KITTENFRIENDS</h1>
     <SearchBox searchChange={onSearchChange} />
     <Scroll>
     <ErrorBoundary>

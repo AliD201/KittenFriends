@@ -10,6 +10,14 @@
 
 # production
 /build
+AnimeCard.js
+AnimeCard.css
+AnimeCardSideWay.css
+AnimeCardSideWay.js
+**/anichartCard.css
+**/anichartCard.html
+**/img
+
 
 # misc
 .DS_Store
