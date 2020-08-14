@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KittenFriends/precache-manifest.ec68b120e89ca5b67689dbba4e57cf42.js"
+  "/KittenFriends/precache-manifest.b8483ac386d792666f958956b23aaa61.js"
 );
 
 self.addEventListener('message', (event) => {
