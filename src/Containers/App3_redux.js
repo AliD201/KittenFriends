@@ -57,6 +57,8 @@ const App = (props) =>{
     // Update the document title using the browser API
     props.onRequestRobots();
   }, []);
+
+
   const robots = props.robots;
   const filtering = robots.filter(robot =>{
   return robot.name.toLowerCase().includes(props.searchField)
@@ -64,7 +66,7 @@ const App = (props) =>{
   // console.log(filtering);
   return (
     <div className="tc">
-    <h1 className="f1">KITTENFRIENDS</h1>
+    <h1 className="title">KITTENFRIENDS</h1>
     <SearchBox searchChange={props.onSearchChange} />
     <Scroll>
     <ErrorBoundary>

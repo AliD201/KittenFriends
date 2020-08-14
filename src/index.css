@@ -1,15 +1,22 @@
 body {
+
+  height: 100%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: LINEAR-GRADIENT(TO RIGHT, RGB(139, 35, 135), RGB(17, 35, 59))
+  background-image: LINEAR-GRADIENT(TO RIGHT, RGB(139, 35, 135), RGB(17, 35, 59));
   /* background: url('wallpaperflare.com_wallpaper (8).jpg'); */
-  /* background-size: cover no-repeate; */
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  background-position: center center;
+
   /* background: url( 'D:/Self_Learn/React/robofriends/src/img/wallpaperflare.com_wallpaper (1).jpg') */
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

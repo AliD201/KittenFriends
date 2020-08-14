@@ -6,8 +6,17 @@ font-style: normal;
 font-weight: normal;
 src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
 }
-h1{
+.title{
   font-family: "SEGA LOGO FONT";
   font-weight: 100;
   color: rgb(35, 112, 200);
+  font-size: 3rem;
+
+}
+
+@media only screen and (max-width: 360px) {
+  .title {
+  font-size: 2em;
+  color: red;
+  }
 }
